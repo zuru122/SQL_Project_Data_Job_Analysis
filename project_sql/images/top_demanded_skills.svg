@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="1000" height="620" fill="#fff"/><text x="50" y="55" font-family="Arial" font-size="28" font-weight="700" fill="#172b4d">Most In-Demand Skills for Data Analysts</text><text x="50" y="87" font-family="Arial" font-size="17" fill="#64748b">Remote Data Analyst postings</text>
+<g font-family="Arial" font-size="18" fill="#334155"><text x="50" y="155">sql</text><text x="50" y="235">excel</text><text x="50" y="315">python</text><text x="50" y="395">tableau</text><text x="50" y="475">power bi</text></g>
+<g fill="#10b981"><rect x="160" y="130" width="700" height="38" rx="6"/><rect x="160" y="210" width="443" height="38" rx="6"/><rect x="160" y="290" width="416" height="38" rx="6"/><rect x="160" y="370" width="360" height="38" rx="6"/><rect x="160" y="450" width="251" height="38" rx="6"/></g>
+<g font-family="Arial" font-size="18" font-weight="700" fill="#172b4d"><text x="875" y="156">7,291</text><text x="618" y="236">4,611</text><text x="591" y="316">4,330</text><text x="535" y="396">3,745</text><text x="426" y="476">2,609</text></g></svg>
